@@ -45,6 +45,9 @@ Herramientas de programación que he aprendido y quiero aprender
 - Meodología Algil
 - MVC (Patrón en el diseño de software comúnmente utilizado para implementar interfaces de usuario, datos y lógica de control. Enfatiza una separación entre la lógica empresarial y la visualización del software.)
 - POO (Programación orientada a objetos paradigma de programación)
+- DTO (Data Transfer Object)
+- Herencia POO
+- Generics Java C++
 - LAMP (Linux Apache Php) (Software stack, Conjunto de software para levantar una aplicacion web)
 - MERN (MongoDB, Express, React, and Node. js)
   SOAP (protocolo que define reglas de comunicación rígidas. BAJO HTTP)
